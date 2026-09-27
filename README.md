@@ -1,6 +1,6 @@
 # 💻 My Portfolio
 
-📌 An earlier portfolio project created during my initial exploration of web development.
+## An earlier portfolio project created during my initial exploration of web development.
 
 ## 📌 About
 
